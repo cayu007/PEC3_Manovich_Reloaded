@@ -34,7 +34,7 @@ En definitiva, este proyecto de Refik Anadol me parece un excelente ejemplo de l
 
 **Enlace:** [Machine Hallucinations - Refik Anadol](https://refikanadol.com/works/machine-hallucinations/)
 
-*(insertar imágenes o vídeos posteriormente.)*
+
 
 
 ---
@@ -59,7 +59,7 @@ En resumen, DALL-E me parece otro ejemplo perfecto de cómo diferentes medios se
 
 **Enlace:** [DALL-E - OpenAI](https://openai.com/dall-e)
 
-*(insertar imágenes o vídeos posteriormente.)*
+
 
 ---
 
