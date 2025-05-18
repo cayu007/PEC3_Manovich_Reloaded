@@ -39,21 +39,23 @@ En definitiva, este proyecto de Refik Anadol me parece un excelente ejemplo de l
 
 ## Caso 2: DALL-E (OpenAI)
 
-*(Aquí desarrollaremos otras 500 palabras, explicando claramente cómo este sistema es un ejemplo perfecto de hibridación según Manovich.)*
+Otro ejemplo fascinante de hibridación digital es DALL-E, un sistema desarrollado por OpenAI. Lo descubrí porque estaba buscando tecnologías recientes que mezclaran creatividad visual con inteligencia artificial, y este sistema encaja perfectamente con lo que explica Manovich sobre combinar diferentes tipos de medios mediante software.
 
-**Descripción:**  
-DALL-E es un sistema desarrollado por OpenAI que crea imágenes originales y únicas a partir de descripciones textuales proporcionadas por el usuario, utilizando avanzadas técnicas de inteligencia artificial.
+Básicamente, lo que hace DALL-E es crear imágenes a partir de texto. Tú escribes una descripción cualquiera, como por ejemplo "un gato tocando el piano en la luna", y DALL-E genera automáticamente una imagen original que nunca ha existido antes. Esto, que hace unos años parecía ciencia ficción, ahora es posible gracias al desarrollo del software de inteligencia artificial generativa.
 
-**Elementos híbridos:**
-- Lenguaje textual
-- Inteligencia Artificial generativa
-- Artes visuales digitales
-- Automatización creativa
+¿Por qué esto es una hibridación? Según Manovich, la hibridación digital surge cuando medios diferentes se combinan gracias al software, creando nuevos formatos y experiencias. En este caso, se mezclan claramente el lenguaje textual con las artes visuales, usando la inteligencia artificial como intermediaria. El software aquí no solo ayuda a crear la imagen, sino que se convierte en una especie de "co-creador" del arte.
+
+Además, este tipo de software es especialmente interesante porque lleva la idea de "automatización creativa" a otro nivel. Tradicionalmente, el arte visual depende completamente de la imaginación y habilidad manual del artista. Sin embargo, DALL-E automatiza gran parte del proceso creativo, generando resultados sorprendentes e inesperados en cuestión de segundos. Esto rompe con la manera tradicional de concebir la creación artística, igual que ocurría con el primer ejemplo.
+
+También me parece que encaja bien con la idea de Manovich sobre la modularidad del software, porque en este caso cada texto descriptivo es como un módulo que puede combinarse con la inteligencia artificial para crear infinitas variaciones visuales. De hecho, con DALL-E puedes cambiar detalles muy pequeños del texto y obtener resultados completamente diferentes, lo que muestra claramente la flexibilidad del medio digital.
+
+Por último, también me parece significativo cómo cambia la manera en que interactuamos con la creación visual. Aquí la experiencia no es pasiva; es interactiva y colaborativa. El usuario ya no es solo espectador, sino que participa activamente dando instrucciones que generan arte visual único y personalizado. Esto refleja perfectamente la transformación profunda que implica la hibridación digital según Manovich.
+
+En resumen, DALL-E me parece otro ejemplo perfecto de cómo diferentes medios se pueden fusionar para crear algo totalmente nuevo gracias al software contemporáneo, mostrando claramente lo que Manovich llama hibridación digital.
 
 **Enlace:** [DALL-E - OpenAI](https://openai.com/dall-e)
 
-**Recursos Multimedia:**  
-*(añadir imágenes o ejemplos creados por DALL-E.)*
+*(insertar imágenes o vídeos posteriormente.)*
 
 ---
 
