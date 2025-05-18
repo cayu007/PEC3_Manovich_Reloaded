@@ -61,12 +61,16 @@ En resumen, DALL-E me parece otro ejemplo perfecto de cómo diferentes medios se
 
 ## Uso de la Inteligencia Artificial en esta PEC
 
-*(explicar brevemente cómo he utilizado herramientas de inteligencia artificial para este trabajo, por ejemplo, en apoyo a la documentación, revisión gramatical o exploración de conceptos.)*
+En la elaboración de esta PEC he utilizado inteligencia artificial (ChatGPT) principalmente para apoyo en la documentación de conceptos, búsqueda inicial de ejemplos y revisión sintáctica y estilística del texto. Todo el contenido final refleja mis ideas personales y mi visión sobre los casos analizados, y el uso de la IA se ha limitado a mejorar la claridad y corrección del lenguaje.
 
 ---
 
 ## Bibliografía y referencias
 
 - Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
-- *(Añadir aquí otras referencias adicionales que vayas usando.)*
-- *(Añadir también referencias a herramientas de IA utilizadas, según normas indicadas.)*
+- Machine Hallucinations - Refik Anadol. Recuperado de [https://refikanadol.com/works/machine-hallucinations/](https://refikanadol.com/works/machine-hallucinations/)
+- DALL-E - OpenAI. Recuperado de [https://openai.com/dall-e](https://openai.com/dall-e)
+
+---
+
+Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/).
